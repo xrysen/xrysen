@@ -7,5 +7,5 @@
 - 💬 Ask me about my two bunnies and way more bunny facts than one person probably needs to know
 - 📫 How to reach me: sean.oyler@gmail.com or through my Linkedin!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrysen)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrysen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrysen)](https://github.com/anuraghazra/github-readme-stats)
