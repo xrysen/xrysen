@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: Adjusting to a new role!
 - 💪 I'm most proficient with Javascript/Node 
-- 🌱 I’m currently learning: Email Development
+- 🌱 I’m currently learning: Go and Python
 - ✔  You can read my dev blog at: [Rysen's Devlog](https://verge-rpg.com/topic/33/rysen-s-devlog)
 - 💬 Ask me about my two bunnies and way more bunny facts than one person probably needs to know
 - 📫 How to reach me: sean.oyler@gmail.com or through my Linkedin!
